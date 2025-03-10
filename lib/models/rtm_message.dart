@@ -12,3 +12,5 @@ class Message {
         'offline': offline,
       };
 }
+
+///Samuel test
