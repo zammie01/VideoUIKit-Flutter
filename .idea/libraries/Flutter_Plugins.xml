@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
     <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/git/Agora-Flutter-RTM-SDK-00082725d77775804cd813e52989f2af148e4824" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler_html-0.1.3+5" />
       <root url="file://$PROJECT_DIR$" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/agora_rtc_engine-6.5.0" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/iris_method_channel-2.2.2" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler-11.4.0" />
-      <root url="file://$USER_HOME$/.pub-cache/git/Agora-Flutter-RTM-SDK-00082725d77775804cd813e52989f2af148e4824" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
